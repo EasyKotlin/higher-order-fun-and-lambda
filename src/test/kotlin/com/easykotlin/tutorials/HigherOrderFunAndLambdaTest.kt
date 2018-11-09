@@ -28,8 +28,10 @@ class HigherOrderFunAndLambdaTest {
     @Test
     fun testGetAndFilterChar() {
         val higherOrderFunAndLambda = HigherOrderFunAndLambda()
+
         // this is a higher order function
         val filterChars = higherOrderFunAndLambda.getAndFilterChar(higherOrderFunAndLambda.fnGetChar, higherOrderFunAndLambda.filterSpecialChars, zhSeparators)
+
         val result = filterChars("唐诗三百首.txt")
         println(result.size)
 
