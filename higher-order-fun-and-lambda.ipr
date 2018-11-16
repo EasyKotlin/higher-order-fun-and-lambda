@@ -143,6 +143,267 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
+    <library name="Gradle: com.squareup.okhttp3:okhttp:3.10.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.okio:okio:1.14.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/e7c96b4fe5651490d8f3c022042940d743a3bdd9/okio-1.14.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.squareup.retrofit2:retrofit:2.4.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/fc4aa382632bfaa7be7b41579efba41d5a71ecf3/retrofit-2.4.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/451207353948708405a08287e2a315c3f23553fe/retrofit-2.4.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-annotations:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-annotations/0.8.1/f6dd91f80c9449249cb29741436c936b65cd0bfd/arrow-annotations-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-annotations/0.8.1/ec00988ba125e4776d11d6b5eaa6d3dfd202d064/arrow-annotations-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-core:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.8.1/b9ea869d4f87b3b4ce34bee39debe802f1ec5a3c/arrow-core-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.8.1/e6ee74db3c8f19793af831e2d93a83de39cdd2c8/arrow-core-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-data:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-data/0.8.1/cec5b01a04632f61eb00acadf6361a1a9f056288/arrow-data-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-data/0.8.1/7526f43053403e5158e46b03ddee7f0198c76273/arrow-data-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-instances:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-instances/0.8.1/a42ffb1fcdd69883bf9782248e609ea64b316dce/arrow-effects-instances-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-instances/0.8.1/c14f9b67031e5363bcea96134c2595114a62c261/arrow-effects-instances-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-kotlinx-coroutines-instances:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-kotlinx-coroutines-instances/0.8.1/6ad6e9d987ab453dc8b6bc6936d22bd26dc593d1/arrow-effects-kotlinx-coroutines-instances-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-kotlinx-coroutines-instances/0.8.1/c9bf49cad05c6e69481a87c6fe25d2f85b11c4ce/arrow-effects-kotlinx-coroutines-instances-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-kotlinx-coroutines:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-kotlinx-coroutines/0.8.1/5f0c4d89188608af8b111374acd525134494c42e/arrow-effects-kotlinx-coroutines-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-kotlinx-coroutines/0.8.1/26b84a00ae8a59a648339ce1f5916fa39c0b03f5/arrow-effects-kotlinx-coroutines-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-reactor-instances:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-reactor-instances/0.8.1/5b541a7103568cad08f1ed40508d7e1d49d63c93/arrow-effects-reactor-instances-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-reactor-instances/0.8.1/65976a50e1e773255eaae4a7f8bf34900b719b23/arrow-effects-reactor-instances-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-reactor:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-reactor/0.8.1/c3b89b39cee74e90233bb7879b532c7b67274fd7/arrow-effects-reactor-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-reactor/0.8.1/1be954314d2982852decf3a76271f3acd38e73d1/arrow-effects-reactor-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-rx2-instances:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-rx2-instances/0.8.1/2cb6647742565a39a72f1d454d83ad934b74d25a/arrow-effects-rx2-instances-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-rx2-instances/0.8.1/7e86ac82d21f794c2d2160c0df18b96ccae146b9/arrow-effects-rx2-instances-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects-rx2:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-rx2/0.8.1/901c8f0fc9c9b25239b475efb772969b6086175a/arrow-effects-rx2-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects-rx2/0.8.1/b677be547231ba5d332998cd5b7ceb753af91f13/arrow-effects-rx2-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-effects:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects/0.8.1/239460ea1cde75b26a3bf25b6640b84e2086517c/arrow-effects-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-effects/0.8.1/3acf2a97117531d9360ac18b5432353184afb991/arrow-effects-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-free:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-free/0.8.1/7d49ac4a518e091aba8bb57303888de849a12d38/arrow-free-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-free/0.8.1/335dc4305c7191c0740532bac8d427e4036fb3e2/arrow-free-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-generic:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-generic/0.8.1/8e9e8cdec99e08a425c5ab68231ccca28e899163/arrow-generic-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-generic/0.8.1/7a8502d750979cc7dc4e566031fa6c33d5962e7a/arrow-generic-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-instances-core:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-core/0.8.1/36451ca0694ca46652452f3263028a63d171e3d7/arrow-instances-core-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-core/0.8.1/2cbd9145dcff06e65134f58b10a2024e19e72541/arrow-instances-core-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-instances-data:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-data/0.8.1/a44d02bea73fd56a2c6705be7b48350e586109ae/arrow-instances-data-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-data/0.8.1/c149032d73f1b9ce65d41b2ed89c77f4ab437b94/arrow-instances-data-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-instances-free:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-free/0.8.1/77d22a3f94aa64d3576acada1b921a77d2572559/arrow-instances-free-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-free/0.8.1/324c24dee1e94191f0d57a479d6b5a4c633e7681/arrow-instances-free-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-instances-recursion:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-recursion/0.8.1/44a6fa6a7c59c6ef780446df7abeb9b3c8ebf019/arrow-instances-recursion-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-instances-recursion/0.8.1/57f0060f294bb2f018e27dcda4340baa5abd886f/arrow-instances-recursion-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-integration-retrofit-adapter:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-integration-retrofit-adapter/0.8.1/1c07a8c8511703b9cc11ffe0761be51465abafa0/arrow-integration-retrofit-adapter-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-integration-retrofit-adapter/0.8.1/25e906074def63dc60c0df72b7a596affa7081f9/arrow-integration-retrofit-adapter-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-mtl:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-mtl/0.8.1/c33bef49e74877704ef13c5722163da16a59f6d4/arrow-mtl-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-mtl/0.8.1/86b2733298d2af854fe884f087208c1118a6e833/arrow-mtl-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-optics:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-optics/0.8.1/77cdbefd454102304e31fc828d31197e7f01a17f/arrow-optics-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-optics/0.8.1/93a2e09596c036b828b24a8a664e32cfc2e76f64/arrow-optics-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-recursion:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-recursion/0.8.1/970e41426a65fa18acd1c8eca1e17a174c5eb85d/arrow-recursion-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-recursion/0.8.1/f072f303bf4cc1b1d828db189ea8de8398b5d3cd/arrow-recursion-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-syntax:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-syntax/0.8.1/e642a0e0a1583c120077bad05d6d09b9655ebe5a/arrow-syntax-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-syntax/0.8.1/2c4a031cb9875e90b6ad0b8f863ce67b7b49d961/arrow-syntax-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.arrow-kt:arrow-typeclasses:0.8.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-typeclasses/0.8.1/f35ed56e9000c43f51701cee1fcd111b0ab038d3/arrow-typeclasses-0.8.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-typeclasses/0.8.1/586df48d615adcdaa4b07acf435aaa1c85d20e65/arrow-typeclasses-0.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.kindedj:kindedj:1.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kindedj/kindedj/1.1.0/462731347602a3f24e3f21feec50928f9a657741/kindedj-1.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kindedj/kindedj/1.1.0/3d0b22938dc6ddc667f628533a8d625935817bc0/kindedj-1.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.projectreactor:reactor-core:3.1.8.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.1.8.RELEASE/3bcc30f9161d3d17abe44b4aa20e397e5170566e/reactor-core-3.1.8.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.1.8.RELEASE/19aefd7cf60e1d5c781e1f0e1d0ecddf54450574/reactor-core-3.1.8.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: io.reactivex.rxjava2:rxjava:2.2.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.1/bf6d5185963ea3ed40d44f56a2130c7a5e918f3c/rxjava-2.2.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.1/d35cbfeb5eae0646f288644577ac6152791fa711/rxjava-2.2.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="Gradle: junit:junit:4.12">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar!/" />
@@ -161,22 +422,22 @@
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.2.51" type="kotlin.common">
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.0" type="kotlin.common">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e4a9d4b13ab19ed1e6531fce6df98e8cfa7f7301/kotlin-stdlib-common-1.2.51.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0/84a2e0288dc17cd64d692eb1e5e0de8cd5ff0846/kotlin-stdlib-common-1.3.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.51/e8c91083a5863d94fdc2836459e7e7a555774be9/kotlin-stdlib-common-1.2.51-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.0/8bee30ce9d075088b3d590488a270e2c3ea39b3a/kotlin-stdlib-common-1.3.0-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.2.51">
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.0">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.51/a37c0066df119c02f034bf17159089b588ccc41a/kotlin-stdlib-jdk7-1.2.51.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.0/683e04a4e7f17437d7e1390480f312e122e42e9e/kotlin-stdlib-jdk7-1.3.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.51/42b719793a22ad3e283fc9aa33a2ae2c2b68a89c/kotlin-stdlib-jdk7-1.2.51-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.0/eb969cd43a30a1207d2c0fc3a2f933906ccee70a/kotlin-stdlib-jdk7-1.3.0-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.51">
@@ -188,13 +449,31 @@
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.2.51/e10ffb65e52d4041f98d95477f7bfc61696f5ddb/kotlin-stdlib-jdk8-1.2.51-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.2.51">
+    <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.0">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.51/fa8127e505bff50fec291d0dd619d1bda5c619e0/kotlin-stdlib-1.2.51.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0/a134b0cfe9bb44f98b0b3e889cda07923eea9428/kotlin-stdlib-1.3.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.51/649a609725b857dd285cf69d49d4f1f77335076e/kotlin-stdlib-1.2.51-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.0/98515ba3feb571f93b923e61f643bdaed59d14ac/kotlin-stdlib-1.3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.0.0" type="kotlin.common">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/5f7551ec1edc068deaa0397100a1f14f32270274/kotlinx-coroutines-core-common-1.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.0.0/fbe00e9f1a3138c7d138fe4e02724366e9e42f24/kotlinx-coroutines-core-common-1.0.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.0.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.0/a33c4bf7581f71f01d4ed660b09ca199abbb44da/kotlinx-coroutines-core-1.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.0/25f38c379fd216bf66c638fc5f5b595650c1bd64/kotlinx-coroutines-core-1.0.0-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Gradle: org.jetbrains:annotations:13.0">
@@ -204,6 +483,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.reactivestreams:reactive-streams:1.0.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/323964c36556eb0e6209f65c1cef72b53b461ab8/reactive-streams-1.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.2/fb592a3d57b11e71eb7a6211dd12ba824c5dd037/reactive-streams-1.0.2-sources.jar!/" />
       </SOURCES>
     </library>
   </component>

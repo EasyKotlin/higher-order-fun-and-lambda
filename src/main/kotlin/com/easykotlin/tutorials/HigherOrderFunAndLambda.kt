@@ -57,3 +57,38 @@ val zhSeparators = arrayOf("“", "”", "。", "！", "·", ".",
         "的"
 )
 
+
+fun repeat(times: Int, body: () -> Unit) {
+    for (i in 0 until times) {
+        // body()
+        body.invoke()
+    }
+}
+
+
+fun main(args: Array<String>) {
+    repeat(3, {
+        println("A")
+    })
+
+    repeat(3) {
+        println("B")
+    }
+
+    var sum = 0
+    var i = 1
+    repeat(100) {
+        sum += i
+        i++
+    }
+    println(sum)
+}
+
+
+
+
+
+
+
+
+
